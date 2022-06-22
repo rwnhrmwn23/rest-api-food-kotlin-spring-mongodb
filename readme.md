@@ -6,6 +6,13 @@
 2. Spring Framework
 3. MongoDB
 
+## Deploy Heroku
+
+```
+heroku logs --tail -a rest-api-food-kotlin-spring
+note : rest-api-food-kotlin-spring is app name heroku
+```
+
 ## Base url
 
 ```
